@@ -8,8 +8,8 @@
 
 ## Practical List
 
-1. AJAX Auto Suggest
-2. Regular Expression Validation
+1. Regular Expression Validation
+2. AJAX Auto Suggest
 3. XML Import Export
 4. PDF Creation using FPDF
 5. QR Code Integration
