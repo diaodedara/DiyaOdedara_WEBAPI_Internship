@@ -13,6 +13,7 @@
 3. XML Import Export
 4. PDF Creation using FPDF
 5. QR Code Integration
+6. Google reCAPTCHA
 
 ---
 
