@@ -1,0 +1,20 @@
+body{
+    background:linear-gradient(
+        135deg,
+        #2e1065,
+        #6d28d9,
+        #c026d3
+    );
+}
+
+.btn{
+    background:linear-gradient(
+        90deg,
+        #a855f7,
+        #c026d3
+    );
+}
+
+.btn:hover{
+    box-shadow:0 10px 20px rgba(192,38,211,0.4);
+}
